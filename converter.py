@@ -15,6 +15,7 @@ def find_persion():
    pro3=pro1/pro2
    result=pro3
    print("the number of person required is :",result)
+   print("thankyou")
 find_persion()
 
 
